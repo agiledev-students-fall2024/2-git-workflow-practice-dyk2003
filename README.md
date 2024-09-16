@@ -7,3 +7,6 @@ This article shows a technology-independent method that provides flexibility for
 # Personal Comment
 
 This article is interesting as it talks about the flexible approach that lets developers create visual representations of software architecture using annotations, regardless of the technology they're working with. In these visualizations, different parts of the architecture are displayed on a single canvas, with their appearance changing based on specific software metrics. The method has been tested in real-world software modernization projects, including work with Oracle Forms, Java EE, and Ruby on Rails. The article also looks at how this approach works in different situations and compares it to more traditional methods. Wilson Xu
+
+# Comment
+* I find the article interesting because it highlights some of the challenges in software development and maintanence due to poor documentation and complexity of code. It's interesting that they presented a method using annotations that works on a variety of different technologies such as Java EE, Ruby on Rails, etc. - Bryant
